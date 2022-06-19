@@ -1,5 +1,5 @@
 # Camera and Gallery Application
-* This is an application which is developed to understand the Browser and use the various APIs that are provided. We have created a Camera to access the live media stream from our device's camera and save the media in our own implemented gallery which uses Indexed DB storage*
+* This is an application which is developed to understand the Browser and use the various APIs that are provided. We have created a Camera to access the live media stream from our device's camera and save the media in our own implemented Gallery which uses Indexed DB storage*
 ________________________________________________________________________________________________________________________________________________________
 ### Features:
 
@@ -22,5 +22,3 @@ ________________________________________________________________________________
   <li>Canvas</li>
   <li>Indexed DB</li>
 </ol>
-
-
