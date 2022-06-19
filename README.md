@@ -13,7 +13,7 @@ ________________________________________________________________________________
 </ol>
 
 
-### Heavy Browser API used:
+### Heavy Browser APIs used:
 
 <ol>
   <li>Media Stream</li>
