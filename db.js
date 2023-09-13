@@ -16,4 +16,4 @@ db.createObjectStore('image', { keyPath:"id"});
 
 openRequest.addEventListener('error', () => {
     console.log('db error');
-});3
+});
